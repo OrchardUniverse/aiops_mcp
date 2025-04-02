@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+      "host-mcp-server": {
+        "type": "sse",
+        "url": "http://0.0.0.0:8000/sse",
+        "disabled": true,
+        "autoApprove": [],
+        "alwaysAllow": []
+      }
+    }
+  }
